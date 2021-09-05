@@ -1,4 +1,6 @@
-# Dataset:-
+### Dataset:-
+| Feature name  |  Feature description                                  |  Type   |
+|---------------|-------------------------------------------------------|---------|
 | battery_power | Total energy a battery can store in mAh               | Numeric |
 | blue          | Has bluetooth or not                                  | Boolean |
 | clock_speed   | Speed at which microprocessor executes instructions   | Numeric |
@@ -20,7 +22,7 @@
 | touch_screen  | Has touch screen or not                               | Boolean |
 | wifi          | Has wifi or not                                       | Numeric |
 
-### Model prediction with test dataset:
+### Model prediction with test dataset:-
 | Model name                  | Accuracy test | 
 |-----------------------------|---------------|
 | Linear regression           | 91.75 %       |
