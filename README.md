@@ -68,3 +68,14 @@ In the competitive mobile phone market companies want to understand sales data o
 | XgBoost                     | 100.0 %
 | KNN classifier              | 94.50 %       | 
 | Decision tree               | 89.21 %       | 
+
+### Contributing AlmaBetter Team Members
+
+
+|Name     |  Email Address   | 
+|---------|-----------------|
+|[Amit Padye]| @amitpadye237@gmail.com        |
+|[Akhilesh Kumar]|     @akhilesh254@gmail.com   |
+|[Bharadwaj Narayanam]| @nbhj897@gmail.com        |
+|[Prabhat Dixit]|     @dixitprabhat.1-@gmail.com    |
+|[Subhadip Sen]|     @h20190505p@alumni.bits-pilani.ac.in    |
