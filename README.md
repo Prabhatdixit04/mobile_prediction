@@ -1,5 +1,7 @@
 ## Mobile price range prediction:-
-In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. The objective is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
+In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices.
+## Objective<br>
+ The objective is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
 
 ###  Dataset 📊
 | Feature name  |  Feature description                                  |  Type   |
@@ -24,6 +26,30 @@ In the competitive mobile phone market companies want to understand sales data o
 | three_g       | Has 3G or not                                         | Boolean |
 | touch_screen  | Has touch screen or not                               | Boolean |
 | wifi          | Has wifi or not                                       | Numeric |
+
+### Methods Used
+* Descriptive Statistics
+* Data Visualization
+* Machine Learning
+
+### Technologies
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+### Needs of this project
+- data exploration
+- data processing/cleaning
+- predictive model for multiple classifier
+
+### Project Description
+* EDA - Performed exploratory data analysis on numerical and categorical data.
+* Data Cleaning - Missing value imputation,Outlier Treatment
+* Feature Selection - Used ram, battery_power and pixel dimensions for building the model.
+* Model development - Tried classification models like XGboost, Decision Tree, Random Forest and KNN model to predict mobile price range.
 
 ### Model prediction with test dataset:-
 | Model name                  | Accuracy test | 
